@@ -404,7 +404,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
   ];
   module.exports.metadata = {
     "cordova-plugin-inappbrowser": "6.0.0",
-    "cordova-plugin-camera": "7.0.0",
+    "cordova-plugin-camera": "8.0.0",
     "cordova-plugin-file": "8.1.0",
     "cordova-plugin-device": "3.0.0",
     "cordova-plugin-dialogs": "2.0.2",
@@ -412,7 +412,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     "cordova-plugin-fullscreen": "1.3.0",
     "cordova-plugin-ios-longpress-fix": "1.1.0",
     "cordova-plugin-media": "7.0.0",
-    "cordova-plugin-media-capture": "5.0.0",
+    "cordova-plugin-media-capture": "6.0.0",
     "cordova-plugin-network-information": "3.0.0",
     "cordova-plugin-add-swift-support": "2.0.2",
     "cordova-plugin-vibration": "3.1.1",

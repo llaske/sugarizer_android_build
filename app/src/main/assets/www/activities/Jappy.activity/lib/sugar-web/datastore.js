@@ -1,0 +1,1 @@
+define(["sugar-web/env","sugar-web/datastore/sugarizer","sugar-web/datastore/sugaros"],(function(r,e,s){"use strict";return r.isSugarizer()?e:s}));
